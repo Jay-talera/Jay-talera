@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Data Structures, Data Analysis and Database Management
 - 💞️ I’m looking to collaborate on Python/Java Projects
 - 📫 How to reach me talerajay@gmail.com
+- LinkedIn <a> https://www.linkedin.com/in/jayjain6865 </a>
 - Do checkOut My Blogs <a>http://theelucidate.lovestoblog.com/?i=1</a>
 
 <!---
